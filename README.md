@@ -24,7 +24,7 @@ QGIS, Python (for spatial calculations), Excel (for tabular data management), Ad
 • National RSPO Certification Rate (Malaysia-wide)
 
 ## The Output Result
-<img src="equipmentreview_dashboard.png">
+<img src="RSPO.png">
 Highlights:
 • Malaysia Total: 68% RSPO Certified, 32% Uncertified (of ~18,200 km²)
 • Perak: 95.7% Certified
